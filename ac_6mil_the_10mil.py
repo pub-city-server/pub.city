@@ -1,1 +1,1 @@
-
+[{"نوع":"پابجی گلوبال","تصویر":"https://www.uplooder.net/img/image/21/95d4fd0c102c159dec14bc3268dc03fb/Screenshot-2022-08-04-15-00-11-709-com.tencent.ig.jpg","شماره":"65845","لول":"73","قیمت":"1,100 تومان","متن باتون":"مشخصات بیشتر","جسون صفحه":"zxYOYTUQZWGgPFd2gWBV1zmYlfjojhQAt1qMSvv3hjKERN3bXH7/6MG3+3mx0RL75gTx0nuZ/CBKVr9YvYgVnQb+t5kPnG+PRacbTAdJLAcMWuqZ/b0mxM3y46ipAPYy","نوع ارتباط هزینه ای":"","متن دیالوگ":"","متن ارتباط":"","شماره واتساپ":"","سایت":""}]
